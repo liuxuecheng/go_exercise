@@ -10,4 +10,5 @@ Fizz-Buzz.go -- Write a program to print 1-100 nubmer. When is a multiple of 3 p
 page2
 
 func1.go -- Write a function to calculate the average of a float64 slice type
+
 func2.go -- Write a function to return the correct (two) parameters (natural) numerical order
