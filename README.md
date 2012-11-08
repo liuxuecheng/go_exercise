@@ -12,3 +12,5 @@ page2
 func1.go -- Write a function to calculate the average of a float64 slice type
 
 func2.go -- Write a function to return the correct (two) parameters (natural) numerical order
+
+func3.go -- Create a fixed-size stack with save integer, it does not exceed the limit of growth. Define the push function, data into the stack. The stack should be the last-in, first-out(LIFO).
